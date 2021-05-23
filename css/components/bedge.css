@@ -1,0 +1,11 @@
+.bedge {
+  background-color: tomato;
+  width: 30px;
+  height: 30px;
+  border-radius: 15px; /*사각형을 원으로 만들고 싶다면 사각형 width의 반값을 쓰면 된다.*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-weight: 600;
+}
