@@ -30,5 +30,6 @@
 
 .status-bar__column:last-child .fa-battery-full {
   margin: 0px 5px;
+  padding: 0px 0px;
 }
 /* CSS Hack end*/
